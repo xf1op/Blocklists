@@ -1,0 +1,10 @@
+0.0.0.0 ads.discord.com
+0.0.0.0 best.discord.media
+0.0.0.0 click.discord.com
+0.0.0.0 crash.discordapp.com
+0.0.0.0 dealer.spotify.com
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 geolocation.onetrust.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 latency.discord.media
+0.0.0.0 telemetry.discord.com
