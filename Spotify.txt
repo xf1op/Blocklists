@@ -1,5 +1,4 @@
 0.0.0.0 o22381.ingest.sentry.io
 0.0.0.0 geolocation.onetrust.com
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 cdn.cookielaw.org
 # no ad blocking since its a hosts file lol
