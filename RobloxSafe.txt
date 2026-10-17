@@ -1,10 +1,12 @@
-0.0.0.0 otpi0g.launches.appsflyersdk.com
-0.0.0.0 otpi0g.cdn-settings.appsflyersdk.com
 0.0.0.0 abtesting.roblox.com
+0.0.0.0 ads.roblox.com
+0.0.0.0 advertise.roblox.com
 0.0.0.0 ams2-128-116-21-3.roblox.com
 0.0.0.0 atl4-128-116-2-3.roblox.com
 0.0.0.0 bom2-128-116-47-3.roblox.com
 0.0.0.0 cdg2-128-116-13-3.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 crashes.roblox.com
 0.0.0.0 dfw2-128-116-95-3.roblox.com
 0.0.0.0 ecsv2.roblox.com
 0.0.0.0 edge-term-ams2.roblox.com
@@ -53,6 +55,7 @@
 0.0.0.0 lax4-128-116-63-3.roblox.com
 0.0.0.0 lga2-128-116-32-3.roblox.com
 0.0.0.0 lhr4-128-116-31-3.roblox.com
+0.0.0.0 lms-split.roblox.com
 0.0.0.0 lms.roblox.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 mia2-128-116-127-3.roblox.com
@@ -60,6 +63,9 @@
 0.0.0.0 nrt2-128-116-120-3.roblox.com
 0.0.0.0 o293668.ingest.us.sentry.io
 0.0.0.0 ord2-128-116-48-3.roblox.com
+0.0.0.0 otpi0g.cdn-settings.appsflyersdk.com
+0.0.0.0 otpi0g.launches.appsflyersdk.com
+0.0.0.0 platinum.roblox.com
 0.0.0.0 pulsar.roblox.com
 0.0.0.0 realtime-signalr.roblox.com
 0.0.0.0 rewarded-video.roblox.com
