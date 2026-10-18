@@ -14,8 +14,6 @@
 0.0.0.0 client.engtelemetry.automation.minecraft-services.net
 0.0.0.0 client-canadacentral.dev-96cf3fca.engtelemetry.automation.minecraft-services.net
 0.0.0.0 region1.app-measurement.com
-0.0.0.0 content1.prod.catalog.playfab.com
-0.0.0.0 content2.prod.catalog.playfab.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 bedrock.frontendlegacy.realms.minecraft-services.net
 0.0.0.0 gatherings-secondary.franchise.minecraft-services.net
